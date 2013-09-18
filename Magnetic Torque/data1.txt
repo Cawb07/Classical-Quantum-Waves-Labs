@@ -1,0 +1,111 @@
+Diameter of ball: .0535 m +- .0005 m
+Length of ball handle: .140 cm +- .0001 m
+Handle Weight: .0015 kg +- .00005 kg
+
+Experiment 1: Magnetic torque equals gravitational torque
+C1: 2.5 A +- .05 A
+r1 (position of handle weight) = .041 m +- .0005 m
+
+C2: 2.8 A
+r2: .044 m +- .0005 m
+
+C3: 3.1 A
+r3: .047 m
+
+C4: 3.4 A
+r4: .049 m
+
+C5: 3.7 A
+r5: .050 m
+
+C6: 4.0 A
+r6: .051 m
+
+Experiment 2: Harmonic oscillation of a sphereical pendulum
+Ball mass: .1417 kg +- .00005 kg
+
+C1: 1.0 A +- .05 A
+t1: 34 s +- .5 s (Larger than precision of stopwatch to account for human reaction time)
+
+C2: 1.5 A
+t2: 28 s
+
+C3: 2.0 A
+t3: 24 s
+
+C4: 2.5 A
+t4: 21 s
+
+C5: 3.0 A
+t5: 19 s
+
+C6: 3.5 A
+t6: 18 s
+
+C7: 4.0 A
+t7: 17 s
+
+Experiment 3: Precessional motion of a spinning sphere
+Strobe Frequency: 5.1 Hz
+35 precessions
+
+C1: 1.0 A
+t1: 12 s +- 1 s (Error is larger because human error is amplified by small and fast precession)
+
+C2: 1.5 A
+t2: 11 s
+
+C3: 2.0 a
+t3: 11 s
+
+C4: 2.5 A
+t4: 10.8 s
+
+C5: 3.0 A
+t5: 10.3 s
+
+C6: 3.5 A
+t6: 10 s
+
+C7: 4.0 A
+t7: 9.8
+
+Experiment 4: Net force in a magnetic field gradient
+
+a. The magnet moves from side to side in the tube depending
+on the direction of the magnetic field.
+
+b.
+
+Length of the rod above the holder: .011 m +- .0005 m
+Displacement from one ball bearing: .004 m +- .0005 m
+Displacement from two ball bearings: .011 m +- .0005 m
+
+c.
+
+Length of the rod above the holder: .022 m +- .0005 m
+Initial displacement of magnet: .003 m +- .0005 m
+
+C1: .5 A
+D1: .003 m +- .0005 m
+
+C2: 1.0 A
+D2: .0035 m
+
+C3: 1.5 A
+D3: .005 m
+
+C4: 2.0 A
+D4: .008 m
+
+C5: 2.5 A
+D5: .0095 m
+
+C6: 3.0 A
+D6: .0115 m
+
+C7: 3.5 A
+D7: .013 m
+
+C8: 4.0 A
+D8: .015 m

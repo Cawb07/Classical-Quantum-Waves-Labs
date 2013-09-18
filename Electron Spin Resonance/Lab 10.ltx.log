@@ -1,0 +1,631 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2011.2.24)  17 MAY 2011 02:27
+entering extended mode
+**C:/Users/Nathan/Desktop/Spring*2011/CQW*Labs/Electron*Spin*Resonance/Lab*10.ltx.tex
+("C:/Users/Nathan/Desktop/Spring 2011/CQW Labs/Electron Spin Resonance/Lab 10.ltx.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, german, ngerman, german-x-2009-06-19, ngerm
+an-x-2009-06-19, french, loaded.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks20
+\float@box=\box28
+\@float@everytoks=\toks21
+\@floatcapt=\box29
+)
+("C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Electron Spin Resonance\Lab 10.ltx.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\context\base\supp-pdf.tex"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen114
+\scratchbox=\box30
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen115
+\MPnumerator=\count105
+\everyMPtoPDFconversion=\toks23
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 24.
+ ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 24.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) <apparatus.png, id=1, 396.48125pt x 298.11375pt>
+File: apparatus.png Graphic file (type png)
+
+<use apparatus.png> [1
+
+{C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map} <C:/Users/Nathan/Desktop/Spring 2011/CQW Labs/Electron Spin Resonan
+ce/apparatus.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+! Double subscript.
+l.44 ...nds on the particle being described. $g_p_
+                                                  r_o_t_o_n = 5.586$, $g_e_l...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ...s on the particle being described. $g_p_r_
+                                                  o_t_o_n = 5.586$, $g_e_l_e...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ...on the particle being described. $g_p_r_o_
+                                                  t_o_n = 5.586$, $g_e_l_e_c...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ... the particle being described. $g_p_r_o_t_
+                                                  o_n = 5.586$, $g_e_l_e_c_t...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ...he particle being described. $g_p_r_o_t_o_
+                                                  n = 5.586$, $g_e_l_e_c_t_r...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ... described. $g_p_r_o_t_o_n = 5.586$, $g_e_
+                                                  l_e_c_t_r_o_n = 2.0023$, a...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ...escribed. $g_p_r_o_t_o_n = 5.586$, $g_e_l_
+                                                  e_c_t_r_o_n = 2.0023$, and...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ...cribed. $g_p_r_o_t_o_n = 5.586$, $g_e_l_e_
+                                                  c_t_r_o_n = 2.0023$, and $...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ...ibed. $g_p_r_o_t_o_n = 5.586$, $g_e_l_e_c_
+                                                  t_r_o_n = 2.0023$, and $g_...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ...ed. $g_p_r_o_t_o_n = 5.586$, $g_e_l_e_c_t_
+                                                  r_o_n = 2.0023$, and $g_n_...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 .... $g_p_r_o_t_o_n = 5.586$, $g_e_l_e_c_t_r_
+                                                  o_n = 2.0023$, and $g_n_e_...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ...$g_p_r_o_t_o_n = 5.586$, $g_e_l_e_c_t_r_o_
+                                                  n = 2.0023$, and $g_n_e_u_...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ...$, $g_e_l_e_c_t_r_o_n = 2.0023$, and $g_n_
+                                                  e_u_t_r_o_n = -3.826$. \\
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ... $g_e_l_e_c_t_r_o_n = 2.0023$, and $g_n_e_
+                                                  u_t_r_o_n = -3.826$. \\
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ...g_e_l_e_c_t_r_o_n = 2.0023$, and $g_n_e_u_
+                                                  t_r_o_n = -3.826$. \\
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ...e_l_e_c_t_r_o_n = 2.0023$, and $g_n_e_u_t_
+                                                  r_o_n = -3.826$. \\
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ...l_e_c_t_r_o_n = 2.0023$, and $g_n_e_u_t_r_
+                                                  o_n = -3.826$. \\
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.44 ...e_c_t_r_o_n = 2.0023$, and $g_n_e_u_t_r_o_
+                                                  n = -3.826$. \\
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+<Plot1.png, id=9, 578.16pt x 433.62pt>
+File: Plot1.png Graphic file (type png)
+ <use Plot1.png>
+! Extra }, or forgotten $.
+\sbox ...hbox {\color@setgroup #2\color@endgroup }
+                                                  
+l.59 ...= 13.66 $\frac{MHz}{mT} \label{fig:setup}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.59 ...= 13.66 $\frac{MHz}{mT} \label{fig:setup}}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.59 ...= 13.66 $\frac{MHz}{mT} \label{fig:setup}}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[2]
+! Display math should end with $$.
+<to be read again> 
+                   \protect 
+l.64 \[\nu =  $\frac
+                    {g \mu_B}{h}$ B\]
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.64 \[\nu =  $\frac{g \mu_B}{h}
+                                $ B\]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.64 \[\nu =  $\frac{g \mu_B}{h}
+                                $ B\]
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.64 \[\nu =  $\frac{g \mu_B}{h}
+                                $ B\]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\frac  #1#2->{\begingroup #1\endgroup \@@over #2}
+                                                 
+l.64 \[\nu =  $\frac{g \mu_B}{h}
+                                $ B\]
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 \[\nu =  $\frac{g \mu_B}{h}$ B\]
+                                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.64 \[\nu =  $\frac{g \mu_B}{h}$ B\]
+                                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.64 \[\nu =  $\frac{g \mu_B}{h}$ B\]
+                                     
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.64 \[\nu =  $\frac{g \mu_B}{h}$ B\]
+                                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Double superscript.
+l.65 ...^9) = 13.66 \frac{MHz}{mT} = 1.366 x 10^1^
+                                                  0 \frac{Hz}{T} \]
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.66 \[g = (1.366 x 10^1^
+                         0)\frac{h}{\mu_B} = .975 \]
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double subscript.
+l.70 \[I_m_
+           o_d_,_r_m_s = .33 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.70 \[I_m_o_
+             d_,_r_m_s = .33 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.70 \[I_m_o_d_
+               ,_r_m_s = .33 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.70 \[I_m_o_d_,_
+                 r_m_s = .33 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.70 \[I_m_o_d_,_r_
+                   m_s = .33 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.70 \[I_m_o_d_,_r_m_
+                     s = .33 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 \[I_m_
+           o_d_,_p_-_p = 2\sqrt{2} I_m_o_d_,_r_m_s = .93 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 \[I_m_o_
+             d_,_p_-_p = 2\sqrt{2} I_m_o_d_,_r_m_s = .93 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 \[I_m_o_d_
+               ,_p_-_p = 2\sqrt{2} I_m_o_d_,_r_m_s = .93 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 \[I_m_o_d_,_
+                 p_-_p = 2\sqrt{2} I_m_o_d_,_r_m_s = .93 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 \[I_m_o_d_,_p_
+                   -_p = 2\sqrt{2} I_m_o_d_,_r_m_s = .93 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 \[I_m_o_d_,_p_-_
+                     p = 2\sqrt{2} I_m_o_d_,_r_m_s = .93 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 \[I_m_o_d_,_p_-_p = 2\sqrt{2} I_m_
+                                       o_d_,_r_m_s = .93 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 \[I_m_o_d_,_p_-_p = 2\sqrt{2} I_m_o_
+                                         d_,_r_m_s = .93 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 \[I_m_o_d_,_p_-_p = 2\sqrt{2} I_m_o_d_
+                                           ,_r_m_s = .93 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 \[I_m_o_d_,_p_-_p = 2\sqrt{2} I_m_o_d_,_
+                                             r_m_s = .93 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 \[I_m_o_d_,_p_-_p = 2\sqrt{2} I_m_o_d_,_r_
+                                               m_s = .93 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.71 \[I_m_o_d_,_p_-_p = 2\sqrt{2} I_m_o_d_,_r_m_
+                                                 s = .93 A \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.72 \[\delta (2I_0) = I_m_
+                           o_d_,_p_-_p \frac{\delta W}{10} = .011 A\]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.72 \[\delta (2I_0) = I_m_o_
+                             d_,_p_-_p \frac{\delta W}{10} = .011 A\]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.72 \[\delta (2I_0) = I_m_o_d_
+                               ,_p_-_p \frac{\delta W}{10} = .011 A\]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.72 \[\delta (2I_0) = I_m_o_d_,_
+                                 p_-_p \frac{\delta W}{10} = .011 A\]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.72 \[\delta (2I_0) = I_m_o_d_,_p_
+                                   -_p \frac{\delta W}{10} = .011 A\]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.72 \[\delta (2I_0) = I_m_o_d_,_p_-_
+                                     p \frac{\delta W}{10} = .011 A\]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.76 \indent \indent The value of \delta
+                                         B is within the designated range of...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.76 ...in the resonant frequency readings is $\pm
+                                                  $ .05 MHz, as indicated by...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (731.12442pt too wide) in paragraph at lines 76--77
+[]\OT1/cmr/m/n/12 The value of $\OML/cmm/m/it/12 Biswithinthedesignatedrangeoflinewidthsquotedintheliterature:Iwon[]tch
+eckit[]spercenterrorbecausethelinewidthdependsonthesolventinwhichthesamplehasrecrystallized:Theuncertaintyintheresonantf
+requencyreadingsis$$\OMS/cmsy/m/n/12 $
+ []
+
+[3 <C:/Users/Nathan/Desktop/Spring 2011/CQW Labs/Electron Spin Resonance/Plot1.png>]
+! Double subscript.
+l.77 \[B_m_
+           a_x = 2.115(2(I_0 + .005 A)) = B + .02115 mT \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.77 \[B_m_a_
+             x = 2.115(2(I_0 + .005 A)) = B + .02115 mT \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.78 \[B_m_
+           i_n = 2.115(2(I_0 - .005 A)) = B - .02115 mT \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.78 \[B_m_i_
+             n = 2.115(2(I_0 - .005 A)) = B - .02115 mT \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.90 ...2. The p-p modulation current $\delta$(2I_
+                                                  0) for the half-width $\de...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.90 ... $\delta$(2I_0) for the half-width $\delta
+                                                  $B is obtained from:
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Double subscript.
+l.91 \[\delta (2I_0) = I_m_
+                           o_d_,_p_-_p \frac{\delta W}{10} \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.91 \[\delta (2I_0) = I_m_o_
+                             d_,_p_-_p \frac{\delta W}{10} \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.91 \[\delta (2I_0) = I_m_o_d_
+                               ,_p_-_p \frac{\delta W}{10} \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.91 \[\delta (2I_0) = I_m_o_d_,_
+                                 p_-_p \frac{\delta W}{10} \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.91 \[\delta (2I_0) = I_m_o_d_,_p_
+                                   -_p \frac{\delta W}{10} \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.91 \[\delta (2I_0) = I_m_o_d_,_p_-_
+                                     p \frac{\delta W}{10} \]
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+[4] ("C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Electron Spin Resonance\Lab 10.ltx.aux") ) 
+Here is how much of TeX's memory you used:
+ 1868 strings out of 495285
+ 22855 string characters out of 3179824
+ 74515 words of memory out of 3000000
+ 5076 multiletter control sequences out of 15000+200000
+ 12096 words of font info for 47 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 27i,6n,24p,674b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiK
+TeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi
+12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.8/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files
+ (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "Lab 10.ltx.pdf" (4 pages, 183201 bytes).
+PDF statistics:
+ 55 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

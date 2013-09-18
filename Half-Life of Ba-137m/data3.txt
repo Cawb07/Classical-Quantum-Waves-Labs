@@ -1,0 +1,6 @@
+Barium Lab
+Counts after 1 minute, directly after part 2 with a new Barium source:
+1257
+
+Backround Radiation:
+17

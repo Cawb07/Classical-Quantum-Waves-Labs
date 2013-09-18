@@ -1,0 +1,79 @@
+part 4 Alligning the Apparatus
+
+8. Aligning the micrometer: 3.8 mm
+
+10. A reading in which the double slit
+images are centered in the blocker slit
+opening. 5 mm
+
+A reading in which one slit image is
+blocked. 3.64 mm and 5.42 mm for other slit
+
+A reading for which both slits are blocked
+by one side of the blocker slit. 3.4 mm
+
+A reading for which both slits are blocked
+by the other side of the blocker slit. 5.85 mm
+
+
+Part 5 Experiment Using Laser Source
+
+Backround Voltage: .009 V
+
+Double Slit Readings
+
+Central Max Voltage: 1.231 V
+Micrometer: 5.27 mm
+
+1st Left Min Voltage: .023 V
+Micrometer: 4.84 mm
+
+1st Left Max Voltage: 1.049 V
+Micrometer: 4.45
+
+2nd Left Min Voltage: .045 V
+Micrometer: 4.00 mm
+
+1st Right Min Voltage: .016 V
+Micrometer: 5.67 mm
+
+1st Right Max Voltage: 1.019 V
+Micrometer: 6.09 mm
+
+2nd Right Min Voltage: .027 V
+Micrometer: 6.54 mm
+
+Second Attempt Double Slit Readings
+(More valid considering we changed
+the setup)
+
+Central Max Voltage: .935 V
+Micrometer: 4.12 mm
+
+1st Left Min Voltage: .159 V 
+Micrometer: 3.69 mm
+
+1st Left Max Voltage: .917 V
+Micrometer: 3.25 mm
+
+2nd Left Min Voltage: .163 V
+Micrometer: 2.82 mm
+
+1st Right Min Voltage: .106 V
+Micrometer: 4.57 mm
+
+1st Right Max Voltage: .695 V
+Micrometer: 5 mm
+
+2nd Right Min Voltage: .037 V
+Micrometer: 5.43 mm
+
+One Slit Covered
+
+Central Max Voltage: .382 V
+Micrometer: 4.50 mm
+
+Other Slit Covered
+
+Central Max Voltage: .366 V
+Micrometer: 2.80 mm

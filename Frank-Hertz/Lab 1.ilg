@@ -1,0 +1,43 @@
+This is C:\Program Files (x86)\MiKTeX 2.8\miktex\bin\makeindex.exe, version 2.14 [02-Oct-2002] (kpathsea + Thai support).
+Scanning input file C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx...
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 1):
+   -- Unknown index keyword \documentclass[12pt].
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 2):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 3):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 4):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 5):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 6):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 8):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 9):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 10):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 11):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 12):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 14):
+   -- Unknown index keyword \title.
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 15):
+   -- Unknown index keyword \author.
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 16):
+   -- Unknown index keyword \author.
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 17):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 18):
+   -- Unknown index keyword \newcommand.
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 19):
+   -- Unknown index keyword \begin.
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 20):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ltx, line = 22):
+   -- Unknown index keyword \end.
+done (0 entries accepted, 19 rejected).
+Nothing written in C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ind.
+Transcript written in C:\Users\Nathan\Desktop\Spring 2011\CQW Labs\Frank-Hertz\Lab 1.ilg.

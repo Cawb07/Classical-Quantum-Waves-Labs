@@ -1,0 +1,15 @@
+Barium Lab
+Time (At .5 min +- .01 min intervals) Counts (Counts for .1 mins each time)
+0	738
+.5	666
+1	594
+1.5	517
+2	432
+2.5	398
+3	312
+3.5	291
+4	237
+4.5	236
+5	179
+5.5	174
+6	156

@@ -1,0 +1,42 @@
+Position 1 (furthest from the mass)
+
+parameters:
+A = 0.04
+T = 12.6
+Q = 32.0
+phase = 0.0
+
+
+Position 2 (0cm mark on ruler)
+
+parameters:
+A = 0.0275
+T = 12.1
+Q = 32.0
+phase = 245.0
+
+
+Position 3 (5cm mark on ruler)
+
+parameters:
+A = 0.04
+T = 12.1
+Q = 20.0
+phase = 325.0
+
+
+Position 4 (8cm mark on ruler)
+A = 0.10
+T = 12.4
+Q = 17.0
+phase = 110.0
+
+
+Position 5 (9.4cm mark on ruler)
+A = 0.08
+T = 12.0
+Q = 4.5
+phase = 330.0 
+
+
+Position 6 (12.0cm mark on ruler) = CRITICALLY DAMPED

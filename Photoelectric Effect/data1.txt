@@ -1,0 +1,62 @@
+1. No instructions
+
+2. Do the flourescent lights near your lab bench produce an effect?
+Yes, it produced a deflection of 1 mm to the left of the zero.
+
+3. Record the sensitivity of the galvanometer which is pasted on it.
+110 nominal ohms is the only thing written on the galvanometer. I tried
+to find the sensitivity by plugging in the batteries, but the current they
+supplied caused a displacement on the galvanometer which was far too large
+to read. Sensitivity for galvanometers is defined as some current (usually
+in milliamps) per mm.
+
+4. Exact (initial) deflection: -60 mm
+Retarding Voltage: 0 V
+
+435.8 nm filter (#1)
+Voltage Step (V +- .0005 V)  Defletion (mm +- .5 mm)
+	.043		-55.
+	.142		-43.
+	.243		-32.
+	.344		-22.
+	.443		-14.
+	.543		-9.
+	.643		-5.
+	.743		-2.
+	.843		-.5
+	.943		.5
+	1.043		1.
+	1.143		1.5
+	1.243		1.5
+	1.343		1.5
+	1.443		1.5
+
+Initial deflection: -32 mm
+Retarding Voltage: 0 V
+546.0 nm filter (#1)
+Voltage Step (V +- .0005 V)  Deflection (mm +_ .5 mm)
+	.044		-28
+	.144		-20
+	.244		-12
+	.344		-6.5
+	.443		-3
+	.544		-1
+	.644		0
+	.744		0
+	.844		0
+	.944		.5
+	1.044		.5
+
+Initial deflection: -8.5 mm
+Retarding Voltage: 0 V
+577.0 nm filter (#1)
+Voltage Step (V +- .0005 V)  Deflection (mm +_ .5 mm)
+	.041		-7
+	.141		-5
+	.241		-2.5
+	.341		-1.5
+	.441		-1
+	.541		-.5
+	.641		-.5
+	.741		-.5
+	.841		-.5

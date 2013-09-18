@@ -1,0 +1,9 @@
+Barium Lab
+Counts (in .1 of a minute) Distance (In 5.0 +- .005 cm steps)
+175	0
+51	5
+20	10
+6	15
+7	20
+5	25
+7	30

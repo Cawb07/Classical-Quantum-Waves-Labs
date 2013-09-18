@@ -1,0 +1,6 @@
+Length of vacuum: 8.0 cm +- .05 cm
+
+Green Light: 56 fringes +- 1
+
+Red Light: 52 fringes +- 1  --> (It was 51 approaching 52)
+

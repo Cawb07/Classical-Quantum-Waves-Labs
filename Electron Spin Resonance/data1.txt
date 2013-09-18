@@ -1,0 +1,13 @@
+Electron Spin Resonance
+
+Seperation of coils: .0068 m
+
+Measuring \delta B
+
+Width of resonance trace at y = 0: 1.2 Divs = .012 m
+
+1 Div = 1 cm
+
+Ampere reading: .33 A (P2P value is easy to find from this)
+
+\mu_B = 9.274e-24 J/T

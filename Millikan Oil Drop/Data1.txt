@@ -1,0 +1,48 @@
+Equipment Setup
+
+Thickness of plastic spacer: 3 mm
+
+Determining the temperature of dropplet viewing chamber
+
+Plate Voltage: 500 V
+Temperature: 25 *C +_ 1 C*
+Thermistor Resistance: 1.978 Ohms
+
+I
+
+Plate Potential: 501 V
+Oil Density: 886 kg/m^3
+Temp ~ 25 *C
+
+Velocity d (mm) t (s) (falling) d (mm) t (s) (rising)
+1	.5	12	.5	9
+2	.5	10	.5	16
+3	.5	8	.5	10
+4	.5	11	.5	21
+5	.5	10	.4	24
+
+Calculating Charge of an Electron:
+
+II (same as I but all readings are with one dropplet)
+
+Velocity d (mm) t (s) (falling) d (mm) t (s) (rising)
+1	.5	12	.3	20
+2	.3	7	.3	24
+3	.4	10	.4	19
+
+This is good data:
+4	.5	14	.5	5
+5	.5	12	.5	6
+6	.5	13	.5	5
+7	.5	15	.5	5
+
+8	.5	7	.5	6
+9	.5	10	.5	7
+10	.5	10	.5	7
+11	.5	10	.5	7
+12	.5	10	.5	7
+
+13	.5	9	.5	7
+
+III (Changing Rising Velocity with Ionization)
+Velocity d (mm) t (s) (falling) d (mm) t (s) (rising)
